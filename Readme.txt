@@ -1,8 +1,16 @@
-............:::::::::::POKEs Database for ZX Spectrum V2.1:::::::::::::...........
-Number of files: 2967.
+............:::::::::::POKEs Database for ZX Spectrum V2.5::::::::::::::...........
+Number of files: 3488.
 Work done by: Lady Eklipse
 
+If you just want the easiest way to use cheat codes with emulators, DivMMC or ZX Spectrum Next, you DON'T NEED this collection.
+Use ZX Pokemaster instead:
+https://sourceforge.net/projects/zx-pokemaster/
+
 Version history:
+2.5 (18.02.2021)
+OK, so version tracking doesn't make sense for it, because this database is always in sync with ZX Pokemaster, available here:
+https://github.com/ladyeklipse/ZX-Pokemaster
+
 2.1 (20.09.2017)
 - Added new pokes (to match August update of the-tipshop.co.uk)
 - Renamed all files to match the upcoming TOSEC update.
@@ -124,8 +132,6 @@ There is a readme inside, so I hope you will get to know it yourself. I just hav
 Thanks for using this database, it took me a lot of time to create it for you.
 You may always ask me questions:
 email: eklipse2009 [@] gmail.com
-skype: eklipse2009
-facebook: http://facebook.com/ladyeklipsegamer
-vk: http://vk.com/ladyeklipse
+facebook: http://facebook.com/ladyeklipse
 Sincerely yours,
 Lady Eklipse.
