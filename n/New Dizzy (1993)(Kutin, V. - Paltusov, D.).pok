@@ -1,7 +1,7 @@
 NInfinite Lives
 M 8 34593 24 0
 Z 8 34594 4 0
-NImmune toР В РІР‚в„ўР вЂ™Р’В Flame
+NImmune to Flame
 Z 8 35431 63 0
 NImmune to Rain
 Z 8 51934 63 0
@@ -15,4 +15,6 @@ NImmunity
 Z 8 54216 0 0
 NWalk through walls
 Z 8 60137 201 0
+NStop the forest floor from collapsing
+Z 8 38409 18 0
 Y
